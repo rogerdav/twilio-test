@@ -10,7 +10,7 @@
     "test": "jest --verbose"
   },
   "engines": {
-    "node": "4.1.1"
+    "node": "9.3.0"
   },
   "keywords": [],
   "author": "",
